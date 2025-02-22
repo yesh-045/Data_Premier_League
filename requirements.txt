@@ -1,0 +1,18 @@
+#Data Science Libraries
+numpy
+pandas
+scipy
+statsmodels
+
+# Machine Learning and Evaluation
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Graph and Network Analysis
+networkx
+
+pytest
