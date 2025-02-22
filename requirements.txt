@@ -14,5 +14,7 @@ plotly
 
 # Graph and Network Analysis
 networkx
-
+ipykernel
 pytest
+
+
