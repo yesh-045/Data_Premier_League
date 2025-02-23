@@ -18,3 +18,5 @@ ipykernel
 pytest
 
 
+gym
+torch
