@@ -15,8 +15,10 @@ plotly
 # Graph and Network Analysis
 networkx
 ipykernel
-pytest
-
+hashlib
+community
+python-louvain
 
 gym
 torch
+tensorflow
