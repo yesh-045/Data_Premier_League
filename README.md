@@ -5,7 +5,7 @@ This project analyzes Formula 1 data to predict race outcomes and driver perform
 
 ## Table of Contents
 - [Installation](#installation)
-- [Key Features of the project](#Key_Features)
+- [Key_Findings](#Key_Findings)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 
@@ -22,9 +22,10 @@ git config --global http.postBuffer 524288000   # to increase The buffer size to
 git clone --depth 1 <repository_url>
 ```
 
-## Key_Features
 
-### Key Findings
+
+## Key_Findings
+
 #### Dominance & Consistency:
 Analysis of driver and constructor performance reveals key factors influencing championship outcomes.
 #### Impact of Qualifying:
